@@ -1,0 +1,10 @@
+{
+  "name": "apiServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express-session": "^1.15.5",
+    "pg": "^7.4.1"
+  }
+}
